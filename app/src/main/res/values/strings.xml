@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">American Point Counter</string>
+    <string name="team_name1">Team A</string>
+    <string name="fault1">"Fault: "</string>
+    <string name="touchdown">touchdown</string>
+    <string name="field_goal">field goal</string>
+    <string name="_2_points">+2 Points</string>
+    <string name="_1_points">+1 Points</string>
+    <string name="fault2">Fault</string>
+    <string name="game_reset">Game reset</string>
+    <string name="fault_reset">Fault reset</string>
+    <string name="team_name2">Team B</string>
+    <string name="_0">0</string>
+</resources>
